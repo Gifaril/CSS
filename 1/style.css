@@ -1,0 +1,24 @@
+body {
+    margin: 0;
+    margin-top: -10;
+
+}
+a {
+    color:#9900ff
+}
+
+.container {
+    height: 450px;
+    width: 750px;
+    background-color: #4676e8;
+
+}
+
+h1, p {
+    margin: 20px;
+}
+
+#list {
+    text-align: center;
+    list-style-position: inside;
+}
