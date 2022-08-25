@@ -1,0 +1,56 @@
+/* dark table styles */
+/*Add the necessary styling to make it simlar to the given table*/
+body {
+	font-size:100%;
+	font-family: Helvetica;
+	background-repeat:repeat;
+}
+* td{
+	color: gray;
+}
+table.dark {
+	border: 1px solid #1a1a1a;
+	width: 30%;
+	height: 50%;
+
+}
+
+table.dark {
+	Color: white;
+	text-transform: uppercase;
+	text-align: left;
+	font-weight: bold;
+}
+table, th, td {
+	border: 1px solid black;
+	border-collapse: collapse;
+  }
+
+td {
+	background-image:url('../images/gradient.gif'); 
+	background-size: 2px;
+}
+
+table.dark td {
+	border:1px solid #1a1a1a;
+}
+
+td {
+	height: 90px;
+}
+
+table.dark h4 {
+	font-weight:normal;
+	font-size: large;
+	color: white;
+	margin-bottom: 0px;
+	
+}
+
+thead {
+	background-color: #000;
+}
+
+p {
+	margin-top: 0px;
+}
