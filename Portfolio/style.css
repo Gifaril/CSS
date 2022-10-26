@@ -126,6 +126,7 @@ h4{
     align-items: flex-end;
     margin-top: 30%;
 }
+/*ABOUT SECTION*/
 .about{
     width: 100%;
     padding: 100px 0px;
@@ -182,6 +183,7 @@ button:hover{
     border: 2px solid palevioletred;
     cursor: pointer;
 }
+/*....SERVICES....*/
 .service{
     background:#101010;
     width: 100%;
@@ -245,6 +247,14 @@ h5{
     border: 2px solid palevioletred;
     cursor: pointer;
 }
+
+/*....PROJECT....*/
+
+
+
+
+
+/*....CONTACT ME....*/
 .contact-me{
     width: 100%;
     height: 290px;
