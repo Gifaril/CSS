@@ -70,7 +70,7 @@ nav ul li a:hover{
 h1{
     color: white;
     margin: 20px 0px 20px;
-    font-size: 100px;
+    font-size: 90px;
 }
 h3{
     color: white;
@@ -112,7 +112,7 @@ h4{
     height: 80%;
     position: absolute;
     bottom: 3px;
-    right: 250px;
+    right: 175px;
 }
 .social-links i{
     font-size: 50px;
@@ -124,7 +124,7 @@ h4{
 .social-links {
     display: flex;
     align-items: flex-end;
-    margin-top: 30%;
+    margin-top: 20%;
 }
 /*ABOUT SECTION*/
 .about{
